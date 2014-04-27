@@ -1,6 +1,11 @@
 CleaningDataProject
 ===================
 
+Purpose
+
+Create a tidy dataset using UCI HAR Dataset.
+* Merge test and train data
+* Extract mean and standard deviation of each measurement
 
 
 Source of Data:
